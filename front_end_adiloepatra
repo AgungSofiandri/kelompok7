@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sistem Informasi Penjualan - By : RUADI SJAHPOETRA</title>
+<link href="../teknokrat/Mata Kuliah/PBW/kelompok7/desain.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td colspan="3"><img src="../teknokrat/Mata Kuliah/PBW/kelompok7/PC-Laptop-Tablet-cover.png" width="1180" height="202" /></td>
+  </tr>
+  <tr>
+    <td width="20%" height="500" valign="top" class="garis_utama"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td align="center" class="menu_utama">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="center" class="isi_menu">&nbsp;</td>
+      </tr>
+      <tr>
+        <td align="center" class="isi_menu"><a href="../teknokrat/Mata Kuliah/PBW/kelompok7/data_barang.php"></a></td>
+      </tr>
+      <tr>
+        <td align="center" class="isi_menu"><a href="../teknokrat/Mata Kuliah/PBW/kelompok7/data_penjualan.php"></a></td>
+      </tr>
+      <tr>
+        <td align="center" class="isi_menu"><a href="../teknokrat/Mata Kuliah/PBW/kelompok7/laporan.php"></a></td>
+      </tr>
+    </table>
+    <p><img src="../teknokrat/Mata Kuliah/PBW/kelompok7/desktop_computer_512.png" width="260" height="174" longdesc="index.php" /></p></td>
+    <td width="60%" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td align="center" class="menu_utama">&nbsp;</td>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <p><img src="../teknokrat/Mata Kuliah/PBW/kelompok7/Aneka-komputer-www.focus_.de_.jpg" width="339" height="252" /><img src="../teknokrat/Mata Kuliah/PBW/kelompok7/2175131_computerandaccessories.jpg" width="369" height="253" /></p></td>
+    <td width="20%" valign="top" class="garis_utama"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td class="menu_utama">&nbsp;</td>
+      </tr>
+      <tr>
+        <td class="isi_menu"><a href="http://www.google.com" target="_blank"></a></td>
+      </tr>
+      <tr>
+        <td class="isi_menu"><a href="http://www.yahoo.com" target="_blank"></a></td>
+      </tr>
+      <tr>
+        <td class="isi_menu"><a href="http://www.facebook.com" target="_blank"></a></td>
+      </tr>
+      <tr>
+        <td class="isi_menu"><a href="http://www.twitter.com" target="_blank"></a></td>
+      </tr>
+    </table>
+    <p><img src="file:///C|/xampp/htdocs/kelompok7/desktop_computer_512.png" width="259" height="184" /></p></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center" class="garis_footer">
+      Copy Right (C) 2015 - By : Kelompok7</td>
+  </tr>
+</table>
+</body>
+</html>
